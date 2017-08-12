@@ -2,4 +2,21 @@
 
 This is a theme for Jedit. It makes Atom look almost the same a Jedit.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+Do you have any ideas for this theme? Please fork this project on Github, and create a pull request.
+
+## TODO:
+    - [ ] Improve markdown
+    - [ ] Change selection
+    - [ ] Change gutter
+    - [ ] Change screen shots
+
+## CONTRIBUTE(ideas):
+    - Open an issue
+    - Fork the repo
+    - Create pull request
+
+All Contributions are welcome(please do).
+
+## Screen shots
+
+(working on these images)
