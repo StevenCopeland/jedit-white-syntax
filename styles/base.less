@@ -1,7 +1,7 @@
 @import "syntax-variables";
 
 atom-text-editor {
-  background-color: @syntax-background-color;
+  background-color: @white;
   color: @syntax-text-color;
 
   .wrap-guide {
@@ -17,8 +17,8 @@ atom-text-editor {
   }
 
   .gutter {
-    background-color: @syntax-gutter-background-color;
-    color: @syntax-gutter-text-color;
+    background-color: #DBDBDB;
+    color: @black;
 
     .line-number {
       &.cursor-line {
@@ -27,7 +27,7 @@ atom-text-editor {
       }
 
       &.cursor-line-no-selection {
-        color: @syntax-gutter-text-color-selected;
+        color: #FF0033;
       }
     }
   }
@@ -43,7 +43,7 @@ atom-text-editor {
   }
 
   .cursor {
-    color: @syntax-cursor-color;
+    color: @black;
   }
 
   .selection .region {
