@@ -9,6 +9,7 @@ Do you have any ideas for this theme? Please fork this project on Github, and cr
 - [ ] Change selection
 - [ ] Change gutter
 - [ ] Change screen shots
+- [ ] Change some of the syntax highlighting
 
 ## CONTRIBUTE(ideas):
 - Open an issue
@@ -19,4 +20,19 @@ All Contributions are welcome(please do).
 
 ## Screen shots
 
-(working on these images)
+#### Python
+![Python Picture](python.png)
+#### Ruby
+![Ruby Picture](ruby.png)
+#### JS
+![JS Picture](JS.png)
+#### Java
+![Java Picture](java.png)
+#### HTML
+![HTML Picture](html.png)
+#### CSS
+![CSS Picture](CSS.png)
+#### C Sharp
+![C# Picture](CS.png)
+#### C++
+![C++ Picture](c++.png)
