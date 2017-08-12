@@ -5,11 +5,11 @@ This is a theme for Jedit. It makes Atom look almost the same a Jedit.
 Do you have any ideas for this theme? Please fork this project on Github, and create a pull request.
 
 ## TODO:
- - [ ] Improve markdown
- - [ ] Change selection
- - [ ] Change gutter
- - [ ] Change screen shots
- - [ ] Change some of the syntax highlighting
+1. Improve markdown
+2. Change selection
+3. Change gutter
+4. Change screen shots
+5. Change some of the syntax highlighting
 
 ## CONTRIBUTE(ideas):
 - Open an issue
