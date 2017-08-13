@@ -15,6 +15,7 @@ Do you have any ideas for this theme? Please fork this project on Github, and cr
 - Open an issue
 - Fork the repo
 - Create pull request
+- Email me to contribute*
 
 All Contributions are welcome.
 
@@ -36,3 +37,5 @@ All Contributions are welcome.
 ![C# Picture](CS.png)
 #### C++
 ![C++ Picture](c++.png)
+
+###### * email found on github/StevenCopeland
