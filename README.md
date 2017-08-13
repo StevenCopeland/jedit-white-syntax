@@ -16,7 +16,7 @@ Do you have any ideas for this theme? Please fork this project on Github, and cr
 - Fork the repo
 - Create pull request
 
-All Contributions are welcome(please do).
+All Contributions are welcome.
 
 ## Screen shots
 
