@@ -19,6 +19,13 @@ Do you have any ideas for this theme? Please fork this project on Github, and cr
 
 All Contributions are welcome.
 
+## Badges**
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/StevenCopeland/montif-syntax.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:https://github.com/StevenCopeland/montif-syntax%20is%20an%20awesome%20theme%20for %20atom!&url=%5Bobject%20Object%5D)
+
+[![GitHub](https://img.shields.io/github/stars/StevenCopeland/montif-syntax.svg?style=flat-square)](https://github.com/StevenCopeland/montif-syntax)
+[![GitHub](https://img.shields.io/github/forks/StevenCopeland/montif-syntax.svg?style=flat-square)](https://github.com/StevenCopeland/montif-syntax/network)
+[![GitHub](https://img.shields.io/github/issues/StevenCopeland/montif-syntax.svg?style=flat-square)](https://github.com/StevenCopeland/montif-syntax/issues)
+[![GitHub](https://img.shields.io/github/tag/StevenCopeland/montif-syntax.svg?style=flat-square)](https://github.com/StevenCopeland/montif-syntax/tags)
 ## Screen shots
 
 #### Python
@@ -39,3 +46,4 @@ All Contributions are welcome.
 ![C++ Picture](c++.png)
 
 ###### * email found on github/StevenCopeland
+###### ** Courtesy of the badges package on Atom 
