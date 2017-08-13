@@ -20,7 +20,7 @@ Do you have any ideas for this theme? Please fork this project on Github, and cr
 All Contributions are welcome.
 
 ## Badges**
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/StevenCopeland/jedit-white-syntax.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:https://github.com/StevenCopeland/jedit-white-syntax%20is%20an%20awesome%20theme%20for %20atom!&url=%5Bobject%20Object%5D)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/StevenCopeland/jedit-white-syntax.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:https://github.com/StevenCopeland/jedit-white-syntax%20is%20an%20awesome%20theme%20for%20atom!&url=%5Bobject%20Object%5D)
 
 [![GitHub](https://img.shields.io/github/stars/StevenCopeland/jedit-white-syntax.svg?style=flat-square)](https://github.com/StevenCopeland/jedit-white-syntax)
 [![GitHub](https://img.shields.io/github/forks/StevenCopeland/jedit-white-syntax.svg?style=flat-square)](https://github.com/StevenCopeland/jedit-white-syntax/network)
